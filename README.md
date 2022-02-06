@@ -1,6 +1,9 @@
-# HighLow
+# HighLowPublic
 
 This README aims to cover the commands that the bot supports, as well as its general purpose. It will NOT cover the schemantics of the Value Betting Game.
+
+Furthermore, the image for the Value Bot have been removed, due to them being private project assets. What remains is the unedited code.
+This repository will be updated periodically with the private repository's contents.
 
 ## Description
 
